@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chaduna
+- 👋 Hi, I’m Shota
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
